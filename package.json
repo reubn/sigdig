@@ -1,0 +1,10 @@
+{
+  "name": "sigdig",
+  "version": "1.0.0",
+  "description": "Function to round number to arbitrary number of significant figures/significant digits.",
+  "keywords": ["significant", "digits", "figures", "round", "significantDigits", "significantFigures"],
+  "main": "index.js",
+  "repository": "https://github.com/reubn/sigdig.git",
+  "author": "Reuben Eggar",
+  "license": "MIT"
+}

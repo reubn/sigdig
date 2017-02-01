@@ -1,6 +1,6 @@
 {
   "name": "sigdig",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Function to round number to arbitrary number of significant figures/significant digits.",
   "keywords": [
     "significant",

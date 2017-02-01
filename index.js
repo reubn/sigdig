@@ -1,1 +1,4 @@
-export default (a,b)=>(c=10**(b-Math.floor(Math.log(a)/Math.LN10)-1),Math.round(a*c)/c)
+module.exports = (number, digits) => {
+  const half = Math.pow(10, (digits - Math.floor(Math.log(number) / Math.LN10) - 1))
+  return Math.round(number * half) / half
+}
